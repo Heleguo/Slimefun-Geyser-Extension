@@ -25,4 +25,4 @@ jobs:
         if: success()
         with:
           name: Build
-          path: ./*.jar
+          path: ./*
